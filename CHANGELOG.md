@@ -7,15 +7,15 @@ project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Next release
 
-#### [[v2.2.0?](https://github.com/terraform-aws-modules/terraform-aws-eks/compare/v2.1.0...HEAD)] - 2019-02-??]
+#### [[v2.1.0-papertrailtoday](https://github.com/papertrail/terraform-aws-eks/compare/v2.1.0...HEAD)] - 2019-01-23]
 
 ##### Added
 
-- Write your awesome addition here (by @you)
+- Merged upstream (by @pcn)
 
 ##### Changed
 
-- Write your awesome change here (by @you)
+- Terraform fmt cleanup (by @pcn)
 
 # History
 
